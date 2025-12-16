@@ -2,7 +2,7 @@
 
 # EX 1 
 
-![ex1](./Interface_EX1.jpg)
+<img width="651" height="369" alt="Interface_EX1" src="https://github.com/user-attachments/assets/522d5f95-5970-451e-ae74-c4a94b106efe" />
 
 # EX 2
 
