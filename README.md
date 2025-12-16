@@ -6,6 +6,7 @@
 
 # EX 2
 
+<img width="662" height="253" alt="Interface_EX2" src="https://github.com/user-attachments/assets/3289926b-ba3d-4388-bbc2-97c635e8c7e0" />
 
 # EX 
 
