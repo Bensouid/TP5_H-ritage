@@ -6,8 +6,8 @@
 
 # EX 2
 
-![ex2](./Interface_EX2.jpg)
 
 # EX 
 
-![ex3](./Interface_EX3.jpg)
+
+<img width="880" height="426" alt="Interface_EX3" src="https://github.com/user-attachments/assets/2d615524-7748-4f22-b4f6-f1e56156c365" />
