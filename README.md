@@ -8,7 +8,7 @@
 
 <img width="662" height="253" alt="Interface_EX2" src="https://github.com/user-attachments/assets/3289926b-ba3d-4388-bbc2-97c635e8c7e0" />
 
-# EX 
+# EX 3
 
 
 <img width="880" height="426" alt="Interface_EX3" src="https://github.com/user-attachments/assets/2d615524-7748-4f22-b4f6-f1e56156c365" />
